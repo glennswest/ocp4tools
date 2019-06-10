@@ -1,0 +1,2 @@
+virsh list --all
+
